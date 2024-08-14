@@ -20,11 +20,17 @@ The predictive model is developed using a combination of data preprocessing, fea
 Various machine learning algorithms such as Random Forest,decision tree,logistic regression are used to train machines and evaluated using appropriate metrics.
 
 Dependencies
+
 Python 3.x
+
 NumPy
+
 pandas
+
 scikit-learn
+
 matplotlib
+
 seaborn
 
 
